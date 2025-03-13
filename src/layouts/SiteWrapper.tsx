@@ -7,7 +7,7 @@ const SiteWrapper: React.FC = () => {
     <>
       <Header />
       <main role="main" className="container mx-auto mt-4 mb-4">
-        <Outlet /> {/* 여기서 자식 라우트 컴포넌트가 렌더링됩니다. */}
+        <Outlet /> {/* 여기서 자식 라우트 컴포넌트가 렌더링 */}
       </main>
       <Footer />
     </>

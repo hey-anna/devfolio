@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white py-3 fixed inset-x-0 bottom-0 z-20 shadow">
       <div className="container mx-auto flex justify-between items-center">
-        <span className="text-sm">© 2025 Reactfolio. All rights reserved.</span>
+        <span className="text-sm">© 2025 Devfolio. All rights reserved.</span>
         <nav>
           <ul className="flex space-x-4">
             <li>
